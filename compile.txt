@@ -1,0 +1,11 @@
+
+objdump -D executable_name
+
+g++ hello.cc -o hello
+./hello
+
+gcc -o hello hello.c
+./helloworld
+
+javac HelloWorld.java
+java HelloWorld
